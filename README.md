@@ -3,11 +3,11 @@
 ## Integrantes del grupo y roles
 
 | Código | Nombre |
-| :--- | :--- | :--- | :--- |
-| U20231H075 | Alvaro Jerry Rivera Calderón |
-| U202322704 | Ericks Santiago Alarcon Castellanos |
+| :--- | :--- |
 | U202315231 | Mariana Alexa Rafael Sosa |
+| U20231H075 | Alvaro Jerry Rivera Calderón |
 | U202413604 | Ronal Sebastian Cueto Ninaja |
+| U202322704 | Ericks Santiago Alarcon Castellanos |
 
 ---
 
