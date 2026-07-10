@@ -2,12 +2,12 @@
 
 ## Integrantes del grupo y roles
 
-| Código | Nombre | Rol | Fase(s) de mayor participación |
+| Código | Nombre |
 | :--- | :--- | :--- | :--- |
-| U20231H075 | Alvaro Jerry Rivera Calderón | Business Project Sponsor | Comprensión del negocio, Conclusiones de negocio |
-| U202322704 | Ericks Santiago Alarcon Castellanos | Data Engineer | Preparación de los datos, limpieza y feature engineering |
-| U202315231 | Mariana Alexa Rafael Sosa | Data Science | Modelado, Evaluación de resultados |
-| U202413604 | Ronal Sebastian Cueto Ninaja | Data Analyst | Comprensión y exploración de los datos, visualizaciones |
+| U20231H075 | Alvaro Jerry Rivera Calderón |
+| U202322704 | Ericks Santiago Alarcon Castellanos |
+| U202315231 | Mariana Alexa Rafael Sosa |
+| U202413604 | Ronal Sebastian Cueto Ninaja |
 
 ---
 
